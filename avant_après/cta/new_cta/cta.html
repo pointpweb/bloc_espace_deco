@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CTA Mobile Version</title>
+    <style>
+        .container__cta {
+            width: 100%;
+            height: auto;
+            background-image: url("/s/imgs/efficience/page_bienchoisir/BC02/CTA-parquet-produit-ordi-parquet-cosy.jpg");
+            text-align: center;
+            background-size: cover;
+            background-position: center;
+        }
+
+        .cta {
+            line-height: 53px;
+            font-size: 18px;
+            font-family: sans-serif;
+            color: #fff;
+            padding: 2.8rem;
+        }
+
+        .cta__texte {
+            margin-top: 2rem;
+        }
+
+        .cta_button {
+            margin-bottom: 1rem;
+            padding: 1rem;
+            display: flex;
+            flex-wrap: nowrap;
+            justify-content: space-around;
+        }
+
+        .title_cta {
+            font-size: 24px;
+            font-weight: 700;
+            text-transform: uppercase;
+            white-space: pre;
+        }
+
+        .description_cta {
+            font-size: 18px;
+            font-weight: 400;
+        }
+
+        .cta_link {
+            width: max-content;
+            font-size: 18px;
+            line-height: 13px;
+            color: black;
+            font-weight: 700;
+            text-align: center;
+            background-color: white;
+            padding: 22px 32px;
+            border-radius: 35px;
+            display: block;
+            text-transform: uppercase;
+            transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+        }
+
+        .cta_link:hover {
+            color: #333333;
+            background-color: #FFFFFF;
+        }
+
+        @media (max-width: 768px) {
+            .container__cta {
+                background-image: url("/s/imgs/efficience/page_bienchoisir/BC02/CTA-parquet-produit-mobile-parquet-cosy.jpg");
+            }
+
+
+            .title_cta {
+                text-align: center;
+                text-transform: uppercase;
+                white-space: break-spaces;
+            }
+
+
+            .cta__texte {
+                text-align: center;
+            }
+
+
+
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container__cta">
+        <div class="cta cta--report-incident">
+
+            <div class="cta__texte">
+                <p class="title_cta">BESOIN DE CONSEILS POUR CHOISIR VOTRE PARQUET ?</p>
+                <p class="description_cta">Vous aussi, faites-vous accompagner par nos conseillers en showroom ou en
+                    visio :
+                    c’est gratuit et sans engagement ! </p>
+            </div>
+
+            <div class="cta_button">
+                <a href="https://www.pointp.fr/nos-showrooms/prendre-rendrez-vous" class="cta_link"
+                    java-script="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">EN
+                    SAVOIR PLUS ICI !</a>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

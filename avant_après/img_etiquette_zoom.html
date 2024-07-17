@@ -1,0 +1,98 @@
+<!-- Image avec l'etiquette zoom -->
+
+
+<div class="img-layout-60-40-simple--A">
+    <div class="img-layout-60-40-simple__wrapper--A">
+        <div class="left">
+            <div class="left__img left__img--01">
+                <img src="/s/imgs/efficience/avant-apres/Projet_sdb_sous_comble_japandi/4_Marseille Vieux Port_4I5A1017.jpg"
+                    alt="salle de douche carrelage mural effet pierre et sol stratifié effet chêne" />
+            </div>
+        </div>
+        <div class="right">
+            <div class="right__img right__img--01">
+                <img src="/s/imgs/efficience/avant-apres/Projet_sdb_sous_comble_japandi/5_Marseille_Vieux_Port_4I5A1028.jpg"
+                    alt="salle de bain coffrage baignoire carrelage effet pierre et sol stratifié effet chêne" />
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    /*style Romain*/
+    .builder-header {
+        height: 0px;
+    }
+
+    .section-template-builder {
+        margin-top: 0px;
+    }
+
+    .section,
+    .block {
+        margin: 0 !important;
+    }
+
+    .img-layout-60-40-simple--A .img-layout-60-40-simple__wrapper--A {
+        display: flex;
+        flex-direction: column;
+        gap: 5px 0;
+    }
+
+    .img-layout-60-40-simple--A .left,
+    .img-layout-60-40-simple--A .right {
+        width: 100%;
+    }
+
+    .img-layout-60-40-simple--A .left .left__img,
+    .img-layout-60-40-simple--A .right .right__img {
+        position: relative;
+    }
+
+    .img-layout-60-40-simple--A .left .left__img::before,
+    .img-layout-60-40-simple--A .right .right__img::before {
+        padding: 10px;
+        background-color: #f6f6f6;
+        font-size: 33px;
+        line-height: 36px;
+        font-weight: 400;
+        position: absolute;
+        left: 0;
+        bottom: 15px;
+        font-family: 'kh-blackline-scriptmedium';
+    }
+
+    .img-layout-60-40-simple--A img {
+        height: 30rem;
+        object-fit: cover;
+    }
+
+    .right,
+    .left {
+        width: auto !important;
+    }
+
+    .img-layout-60-40-simple__wrapper--A {
+        display: flex !important;
+        justify-content: flex-start;
+    }
+
+    @media (min-width: 768px) {
+        .img-layout-60-40-simple--A .img-layout-60-40-simple__wrapper--A {
+            flex-direction: row;
+            gap: 0 5px;
+        }
+
+        .img-layout-60-40-simple--A .left {
+            width: 60%;
+        }
+
+        .img-layout-60-40-simple--A .right {
+            width: 40%;
+        }
+    }
+
+    .img-layout-60-40-simple--A .right .right__img--01::before {
+        content: "Zoom";
+    }
+</style>

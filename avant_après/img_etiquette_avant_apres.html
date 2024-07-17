@@ -1,0 +1,97 @@
+<!-- Image avec l'etiquette Avant-Après -->
+<div class="image-av-ap">
+    <div class="image-av-ap__content">
+        <div class="content-head">
+            <div class="content-head__left">
+                <div class="img-wrapper img-wrapper--av">
+                    <img src="/s/imgs/efficience/avant-apres/Projet_sdb_sous_comble_japandi/1_IMG_3272.jpg"
+                        alt="avant travaux salle de bain">
+                </div>
+            </div>
+            <div class="content-head__right">
+                <div class="img-wrapper img-wrapper--ap">
+                    <img src="/s/imgs/efficience/avant-apres/Projet_sdb_sous_comble_japandi/2_Marseille_Vieux-Port_4I5A0904.jpg"
+                        alt="après travaux salle de bain">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    /*style Romain*/
+    .builder-header {
+        height: 0px;
+    }
+
+    .section-template-builder {
+        margin-top: 0px;
+    }
+
+    .section,
+    .block {
+        margin: 0 !important;
+    }
+
+    .image-av-ap__content .content-head {
+        display: flex;
+        gap: 5px 0;
+        flex-direction: column;
+    }
+
+    .image-av-ap__content .content-head .content-head__left {
+        width: 100%;
+    }
+
+    .image-av-ap__content .content-head .content-head__right {
+        width: 100%;
+    }
+
+    .image-av-ap__content .img-wrapper {
+        position: relative;
+    }
+
+    .image-av-ap__content .img-wrapper::before {
+        padding: 5px;
+        background-color: #58575C;
+        color: white;
+        font-size: 15px;
+        font-weight: 700;
+        position: absolute;
+        left: 15px;
+        top: 15px;
+    }
+
+    .image-av-ap__content .img-wrapper--av::before {
+        content: "AVANT";
+    }
+
+    .image-av-ap__content .img-wrapper--ap::before {
+        content: "APRÈS";
+    }
+
+    .image-av-ap__content img {
+        height: 460px;
+        object-fit: cover;
+    }
+
+    .image-av-ap__content {
+        display: flex;
+        justify-content: center;
+    }
+
+    @media (min-width: 768px) {
+        .image-av-ap__content .content-head {
+            gap: 0 5px;
+            flex-direction: row;
+        }
+
+        .image-av-ap__content .content-head__left {
+            width: 50%;
+        }
+
+        .image-av-ap__content .content-head__right {
+            width: 50%;
+        }
+    }
+</style>

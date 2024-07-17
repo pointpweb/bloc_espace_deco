@@ -1,0 +1,228 @@
+<!-- Carrousel -->
+
+<div class="carrousel">
+    <div class="slideshow-container">
+        <div class="mySlides01 fade">
+            <img src="/s/imgs/efficience/avant-apres/Projet_sdb_sous_comble_japandi/8_Marseille-Vieux-Port_4I5A0984.jpg"
+                style="width:100%"
+                alt="salle de bain double lavabo carrelage mural effet pierre et sol stratifié effet chêne" />
+        </div>
+        <div class="mySlides01 fade">
+            <img src="/s/imgs/efficience/avant-apres/Projet_sdb_sous_comble_japandi/9_Marseille_Vieux_Port_4I5A1048.jpg"
+                style="width:100%" alt="sol stratifié effet chêne naturel" />
+        </div>
+        <div class="mySlides01 fade">
+            <img src="/s/imgs/efficience/avant-apres/Projet_sdb_sous_comble_japandi/10_Marseille_Vieux_Port_4I5A1021.jpg"
+                style="width:100%"
+                alt="salle de bain sous combles baignoire coffrage carrelage grès cérame effet pierre sol stratifié effet chêne" />
+        </div>
+        <div class="mySlides01 fade">
+            <img src="/s/imgs/efficience/avant-apres/Projet_sdb_sous_comble_japandi/11_Marseille_Vieux_Port_4I5A0954.jpg"
+                style="width:100%" alt="carrelage grés cérame effet pierre" />
+        </div>
+
+        <a class="prev" onclick="plusSlides01(-1)">
+            <span></span>
+        </a>
+        <a class="next" onclick="plusSlides01(1)">
+            <span></span>
+        </a>
+    </div>
+
+    <div style="text-align:center">
+        <span class="dot dot01" onclick="currentSlide01(1)"></span>
+        <span class="dot dot01" onclick="currentSlide01(2)"></span>
+        <span class="dot dot01" onclick="currentSlide01(3)"></span>
+        <span class="dot dot01" onclick="currentSlide01(4)"></span>
+    </div>
+</div>
+
+
+<style>
+    /*style Romain*/
+    .builder-header {
+        height: 0px;
+    }
+
+    .section-template-builder {
+        margin-top: 0px;
+    }
+
+    .section,
+    .block {
+        margin: 0 !important;
+    }
+
+    /*style Romain*/
+    .carrousel h2 {
+        font-size: 24px;
+        line-height: 28px;
+        font-weight: 700;
+        color: #333333;
+        margin-bottom: 24px;
+    }
+
+    .slideshow-container .mySlides01 {
+        display: none
+    }
+
+    .slideshow-container {
+        position: relative;
+        margin: auto;
+    }
+
+    .slideshow-container .prev,
+    .slideshow-container .next {
+        width: 40px;
+        height: 40px;
+        position: absolute;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        top: 50%;
+        border-radius: 100%;
+        background-color: white;
+        color: #E65012;
+        cursor: pointer;
+        user-select: none;
+        transform: translateY(-50%);
+        border: 1px solid #DFDFDF;
+        transition: 0.6s ease;
+    }
+
+    .slideshow-container .prev span,
+    .slideshow-container .next span {
+        content: '';
+        display: inline-block;
+        width: 10px;
+        height: 10px;
+        border-style: solid;
+        vertical-align: top;
+        transition: 0.5s;
+    }
+
+    .slideshow-container .prev span {
+        margin-left: 4px;
+        border-width: 2px 0 0 2px;
+        transform: rotate(-45deg);
+    }
+
+    .slideshow-container .next span {
+        margin-right: 4px;
+        border-width: 2px 2px 0 0;
+        transform: rotate(45deg);
+    }
+
+    .slideshow-container .prev {
+        left: 0;
+        margin-left: -20px;
+    }
+
+    .slideshow-container .next {
+        right: 0;
+        margin-right: -20px;
+    }
+
+    .slideshow-container .prev:hover,
+    .slideshow-container .next:hover {
+        background-color: #DFDFDF;
+    }
+
+    .slideshow-container .fade {
+        -webkit-animation-name: fade;
+        -webkit-animation-duration: 1.5s;
+        animation-name: fade;
+        animation-duration: 1.5s;
+    }
+
+    @-webkit-keyframes fade {
+        from {
+            opacity: .4
+        }
+
+        to {
+            opacity: 1
+        }
+    }
+
+    @keyframes fade {
+        from {
+            opacity: .4
+        }
+
+        to {
+            opacity: 1
+        }
+    }
+
+    .carrousel .dot {
+        cursor: pointer;
+        height: 15px;
+        width: 15px;
+        margin: 0 5px;
+        opacity: .42;
+        background-color: #a3a5b3;
+        border-radius: 50%;
+        display: inline-block;
+        transition: .2s;
+    }
+
+    .carrousel .dot.active {
+        opacity: 1;
+        background-color: #e75012;
+    }
+
+    .carrousel .dot:hover {
+        opacity: 1;
+    }
+
+    @media only screen and (max-width: 300px) {
+
+        .slideshow-container .prev,
+        .slideshow-container .next,
+        .slideshow-container .text {
+            font-size: 11px
+        }
+    }
+
+    @media (max-width: 425px) {
+        .carrousel h2 {
+            font-size: 18px;
+            line-height: 21px;
+            margin-left: 0;
+        }
+    }
+</style>
+
+
+<script>
+    var slideIndex = 1;
+    showSlides01(slideIndex);
+
+    function plusSlides01(n) {
+        showSlides01(slideIndex += n);
+    }
+
+    function currentSlide01(n) {
+        showSlides01(slideIndex = n);
+    }
+
+    function showSlides01(n) {
+        var i;
+        var slides = document.getElementsByClassName("mySlides01");
+        var dots = document.getElementsByClassName("dot01");
+        if (n > slides.length) { slideIndex = 1 }
+        if (n < 1) { slideIndex = slides.length }
+        for (i = 0; i < slides.length; i++) {
+            slides[i].style.display = "none";
+        }
+        for (i = 0; i < dots.length; i++) {
+            dots[i].className = dots[i].className.replace(" active", "");
+        }
+        slides[slideIndex - 1].style.display = "block";
+        dots[slideIndex - 1].className += " active";
+    }
+</script>
+
+
+
