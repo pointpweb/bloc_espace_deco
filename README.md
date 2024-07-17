@@ -4,3 +4,4 @@ Ensemble des blocs utilisés pour les différents contenus de l'espace déco ave
 - Avant-Après
 - Bien choisir
 - Newsletter
+- AB test sur les CTA de la newsletter
