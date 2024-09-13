@@ -1,0 +1,1571 @@
+<div id="bloc_hub">
+	<div id="filters_bloc">
+		<div id="label_categorie" class="filter" > 
+			Affiner la recherche
+			<div class="filter__content">
+				<span class="filter__content-number">2</span>
+				<span id="filter__content-display" class="filter__content-display" onclick="showFiltre()"></span>
+			</div>
+		</div>
+		<div id="btn_filter">
+			<button type="button" onclick="filterSelection('all')" class="btnn active" >Voir tout</button>
+			<button type="button" onclick="filterSelection('salon')"  class="btnn" >Salon</button> 
+			<button type="button" onclick="filterSelection('terrasse')" class="btnn">Terrasse</button> 
+			<button type="button" onclick="filterSelection('salle-à-manger')" class="btnn">Salle à manger</button> 
+			<button type="button" onclick="filterSelection('salle-de-bain')" class="btnn">Salle de bain</button> 
+			<button type="button" onclick="filterSelection('chambre')" class="btnn">Chambre</button>
+            <button type="button" onclick="filterSelection('cuisine')" class="btnn">Cuisine</button> 
+			<button type="button" onclick="filterSelection('entrée')" class="btnn">Entrée</button>
+			<button type="button" onclick="filterSelection('piscine')" class="btnn">Piscine</button> 
+			<button type="button" onclick="filterSelection('dressing')" class="btnn">Dressing</button>
+            <button type="button" onclick="filterSelection('bureau')" class="btnn">Bureau</button> 
+            <button type="button" onclick="filterSelection('wc')" class="btnn">WC</button> 
+
+		</div>         
+	</div>
+    
+
+    <div id="card_tendance" class="card_tendance">
+        <div class="card_tendance-wrapper">
+
+<!-- ******************************************************************************* -->
+            <div class="item cuisine show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-cusine-ouverte-au-style-neo-industriel">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-cuisine-ouverte-neo-industriel/VIGNETTE_4I5A6061.JPG"
+                            alt="Une cuisine ouverte au style néo-industriel">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-cusine-ouverte-au-style-neo-industriel">
+                        <h3>AVANT / APRÈS : UNE CUISINE OUVERTE AU STYLE NÉO-INDUSTRIEL </h3>
+                        <p>A Istres, le créateur de contenus Stéphane Granie, alias @stephane_et_stefany, a entièrement rénové d’anciennes étables afin de créer un havre de paix doté d’une cuisine spacieuse au caractère affirmé.
+                        </p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/une-cusine-ouverte-au-style-neo-industriel"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+
+<!-- ******************************************************************************* -->
+
+
+            
+
+
+            <div class="item wc show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/deux-wc-au-decor-raffine">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-wc-decor-raffine/VIGNETTE_4I5A5542.JPG"
+                            alt="Deux wc au décor raffiné">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/deux-wc-au-decor-raffine">
+                        <h3>AVANT / APRÈS : DEUX WC AU DÉCOR RAFFINÉ   </h3>
+                        <p>Pour allier confort, praticité et esthétique dans les petits coins, pourquoi ne pas miser sur un décor haut en couleurs, qui sort des sentiers battus ?
+                        </p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/deux-wc-au-decor-raffine"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ******************************************************************************* -->
+
+
+
+            <div class="item cuisine show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-cuisine-familiale-esprit-vintage">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-cuisine-blanche-roucas/VIGNETTE_424x188px.jpg"
+                            alt="Une cuisine familiale à l'esprit vintage">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-cuisine-familiale-esprit-vintage">
+                        <h3>AVANT / APRÈS : UNE CUISINE FAMILIALE À L'ESPRIT VINTAGE  </h3>
+                        <p>Dans le quartier du Roucas Blanc, à Marseille, l’architecte d’intérieur Laurence Vernet a métamorphosé cette bâtisse à l’abandon en un havre de paix chaleureux pour une famille avec deux enfants.
+                        </p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/une-cuisine-familiale-esprit-vintage"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ******************************************************************************* -->
+
+            
+            <div class="item chambre show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-chambre-cocon-ambiance-feutree">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-chambre-cocon-ambiance-feutree/VIGNETTE_424x188px.JPG"
+                            alt="Une chambre cocon à l'ambiance feutrée">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-chambre-cocon-ambiance-feutree">
+                        <h3>AVANT / APRÈS : UNE CHAMBRE COCON À L'AMBIANCE FEUTRÉE</h3>
+                        <p>Stéphane Granie a réhabilité une ancienne étable en chambre d’hôte. Il a imaginé un écrin cosy digne des plus grands hôtels en mariant un élégant parquet en chêne massif et un carrelage hexagonal effet Corten.
+                        </p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/une-chambre-cocon-ambiance-feutree"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+            
+<!-- ******************************************************************************* -->
+
+
+            
+            <div class="item chambre salon bureau show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/un-salon-et-un-espace-bureau-contemporains-et-chaleureux">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-salon-boheme/Vignette_pageHub_424x188px.jpg"
+                            alt="Un salon et un espace bureau contemporains et chaleureux">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/un-salon-et-un-espace-bureau-contemporains-et-chaleureux">
+                        <h3>AVANT / APRÈS : UN SALON ET UN ESPACE BUREAU CONTEMPORAINS ET CHALEUREUX</h3>
+                        <p>Près de Grenoble, Coralie et Damien ont remodelé ce VEFA pour créer un vaste séjour familial ultra cosy abritant un espace de travail inspirant.
+                        </p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/un-salon-et-un-espace-bureau-contemporains-et-chaleureux"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ******************************************************************************* -->
+
+
+            
+            <div class="item chambre salle-de-bain show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-suite-epuree-style-hacienda">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-suite-ambiance-mediterranenne/VIGNETTE_424x188px.JPG"
+                            alt="Une suite épurée style hacienda">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-suite-epuree-style-hacienda">
+                        <h3>AVANT / APRÈS : UNE SUITE ÉPURÉE STYLE HACIENDA</h3>
+                        <p>Dans une chambre, le bois comme revêtement de sol demeure un choix très prisé. Mais, qu’allez-vous choisir : un parquet contrecollé, un sol stratifié effet bois ou un carrelage imitation parquet… </p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/une-suite-epuree-style-hacienda"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ******************************************************************************* -->
+
+
+            <div class="item cuisine show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-cuisine-noire-reveillee-par-une-credence-bleue">
+                        <img src="/s/imgs/efficience/avant-apres/Projet_cuisine_noire_credence_bleue/VIGNETTE_424x188px_4I5A0328.jpg"
+                            alt="Une cuisine blanche réveillée par une crédence bleue">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-cuisine-noire-reveillee-par-une-credence-bleue">
+                        <h3>AVANT / APRÈS : UNE CUISINE BLANCHE RÉVEILLÉE PAR UNE CRÉDENCE BLEUE</h3>
+                        <p>Dans une chambre, le bois comme revêtement de sol demeure un choix très prisé. Mais, qu’allez-vous choisir : un parquet contrecollé, un sol stratifié effet bois ou un carrelage imitation parquet… </p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/une-cuisine-noire-reveillee-par-une-credence-bleue"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+<!-- ******************************************************************************* -->
+
+
+            <div class="item chambre dressing show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/3-suites-parentales-toutes-de-bois-vetues">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-suite-parentale-bois-vetues/Vignette_pageHub_424x188px.jpg"
+                            alt="3 suites parentales toutes de bois vêtues">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/3-suites-parentales-toutes-de-bois-vetues">
+                        <h3>AVANT / APRÈS : 3 SUITES PARENTALES TOUTES DE BOIS VÊTUES</h3>
+                        <p>Dans une chambre, le bois comme revêtement de sol demeure un choix très prisé. Mais, qu’allez-vous choisir : un parquet contrecollé, un sol stratifié effet bois ou un carrelage imitation parquet… </p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/3-suites-parentales-toutes-de-bois-vetues"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+               
+<!-- ******************************************************************************* -->
+
+
+            <div class="item chambre dressing show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/3-suites-parentales-toutes-de-bois-vetues">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-suite-parentale-bois-vetues/Vignette_pageHub_424x188px.jpg"
+                            alt="3 suites parentales toutes de bois vêtues">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/3-suites-parentales-toutes-de-bois-vetues">
+                        <h3>AVANT / APRÈS : 3 SUITES PARENTALES TOUTES DE BOIS VÊTUES</h3>
+                        <p>Dans une chambre, le bois comme revêtement de sol demeure un choix très prisé. Mais, qu’allez-vous choisir : un parquet contrecollé, un sol stratifié effet bois ou un carrelage imitation parquet… Alliant robustesse, chaleur et praticité, ces trois matériaux au charme authentique seront difficiles à départager comme vous allez le découvrir avec ces trois espaces nuit au style déco très différents.</p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/3-suites-parentales-toutes-de-bois-vetues"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+
+<!-- ******************************************************************************* -->
+
+            
+            <div class="item salle-de-bain show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-salle-de-bain-sous-combles-lesprit-japandi">
+                        <img src="/s/imgs/efficience/avant-apres/Projet_sdb_sous_comble_japandi/VIGNETTE_424x188px_4I5A0904.jpg"
+                            alt="Une salle de bain sous combles à l'esprit Japandi">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-salle-de-bain-sous-combles-lesprit-japandi">
+                        <h3>AVANT / APRÈS : UNE SALLE DE BAIN SOUS COMBLES À L'ESPRIT JAPANDI</h3>
+                        <p>Dans cet appartement marseillais, la réhabilitation des combles a permis de créer deux chambres et une salle de bain chaleureuse habillée d’un stratifié imitation bois et d’un carrelage mural façon pierre naturelle.</p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/une-salle-de-bain-sous-combles-lesprit-japandi"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+<!-- ******************************************************************************* -->
+
+ 
+            <div class="item salle-à-manger cuisine show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-piece-a-vivre-minimaliste-mariant-effet-zellige-et-terrazzo">
+                        <img src="/s/imgs/efficience/avant-apres/Projet_piece_a_vivre_minimaliste/VIGNETTE_424x188px_4I5A0461.JPG"
+                            alt="Une pièce à vivre minimaliste">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-piece-a-vivre-minimaliste-mariant-effet-zellige-et-terrazzo">
+                        <h3>AVANT / APRÈS : UNE PIÈCE À VIVRE MINIMALISTE MARIANT EFFET TERRAZZO ET ZELLIGE</h3>
+                        <p>Dans cet appartement situé près du parc de Procé, à Nantes, l’architecte d’intérieur Aurélie Lesage a imaginé un cocon contemporain mariant un élégant sol en Terrazzo et un carrelage mural blanc façon zellige.</p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/une-piece-a-vivre-minimaliste-mariant-effet-zellige-et-terrazzo"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+            
+
+
+<!-- ******************************************************************************* -->
+
+
+            <div class="item chambre show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-chambre-sous-combles-lambiance-nature">
+                        <img src="/s/imgs/efficience/avant-apres/Projet_sous_combles_nature/VIGNETTE_424x188px_4I5A1164.jpg"
+                            alt="Une cuisine blanche réveillée par une crédence bleue">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-chambre-sous-combles-lambiance-nature">
+                        <h3>AVANT / APRÈS : UNE CHAMBRE SOUS COMBLES À L'AMBIANCE NATURE</h3>
+                        <p>En rénovant les combles de cet appartement marseillais, l’architecte d’intérieur Laurence Vernet a imaginé un espace nuit parental apaisant et lumineux, orné d’un chaleureux stratifié imitation chêne.</p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/une-chambre-sous-combles-lambiance-nature"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+<!-- ******************************************************************************* -->
+
+
+
+            <div class="item cuisine show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-cuisine-blanche-parfaite-pour-la-colocation">
+                        <img src="/s/imgs/efficience/avant-apres/Projet_cuisine_coloc_cesar/Vignette_pageHub_424x188px.jpg"
+                            alt="Une cuisine blanche réveillée par une crédence bleue">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-cuisine-blanche-parfaite-pour-la-colocation">
+                        <h3>AVANT / APRÈS : UNE CUISINE BLANCHE PARFAITE POUR LA COLOCATION</h3>
+                        <p>A Marseille, cette cuisine ouverte remodelée par l’architecte d’intérieur Laurence Vernet mise sur la durabilité et la convivialité avec un carrelage imitation pierre, un stratifié effet chêne et une crédence parée de carreaux bleus.</p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/une-cuisine-blanche-parfaite-pour-la-colocation"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+<!-- ******************************************************************************* -->
+
+            <div class="item salle-à-manger show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/trois-salles-manger-inspirees-par-la-nature">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-trois-salles-a-manger-inspirees-nature/Vignette_424x188px.jpg"
+                            alt="Trois salle à manger inspirées par la nature">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/trois-salles-manger-inspirees-par-la-nature">
+                        <h3>AVANT / APRÈS : TROIS SALLES À MANGER INSPIRÉES PAR LA NATURE</h3>
+                        <p>Misant sur le confort et la fonctionnalité, ces trois espaces repas adoptent une palette organique pour créer une ambiance aussi fraîche que conviviale.</p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/trois-salles-manger-inspirees-par-la-nature"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+
+<!-- ******************************************************************************* -->
+
+
+            
+            <div class="item salle-de-bain show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-salle-de-bain-look-retro">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-sdb-retro/Vignette_pageHub_424x188px.jpg"
+                            alt="Une salle de bain au look rétro">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-salle-de-bain-look-retro">
+                        <h3>AVANT / APRÈS : UNE SALLE DE BAIN AU LOOK RÉTRO</h3>
+                        <p>Dans cette ancienne chapelle nichée à Saint Barthélémy, en Bretagne, Matthew Chalk, fondateur de l’entreprise MC Rénovation, a imaginé une salle de bain en totale harmonie avec l’architecture des lieux.</p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/une-salle-de-bain-look-retro"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+<!-- ******************************************************************************* -->
+
+
+            <div class="item salon show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-salle-de-bain-look-retro">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-salon-caesar/VIGNETTE_424x188px_4I5A0491.jpg"
+                            alt="Un salon cosy à l'ambiance méditerranéenne">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-salle-de-bain-look-retro">
+                        <h3>AVANT / APRÈS : UN SALON COSY À L'AMBIANCE MÉDITERRANÉENNE</h3>
+                        <p>Spécialement conçue pour la colocation, cette pièce à vivre a été entièrement repensée par l’architecte d’intérieur Laurence Vernet pour créer un espace chaleureux habillé d’un stratifié effet chêne.</p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/une-salle-de-bain-look-retro"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+            
+<!-- ******************************************************************************* -->
+
+            <div class="item salle-de-bain show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/avant-apres-une-salle-de-bain-graphique-pour-enfants">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-sdb-roucas/VIGNETTE_424x188px_4I5A0491.jpg"
+                            alt="Une salle de bain graphique pour enfants">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/avant-apres-une-salle-de-bain-graphique-pour-enfants">
+                        <h3>AVANT / APRÈS : UNE SALLE DE BAIN GRAPHIQUE POUR ENFANTS</h3>
+                        <p>À Marseille, l’architecte d’intérieur Laurence Vernet a créé de toutes pièces cette salle de bain aux tons doux en misant sur un carrelage hexagonal aux lignes géométriques.</p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/avant-apres-une-salle-de-bain-graphique-pour-enfants"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+<!-- ******************************************************************************* -->
+
+
+            <div class="item cuisine show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/avant-apres-une-salle-de-bain-graphique-pour-enfants">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-cuisine-cesar/Vignette_pageHub_424x188px.jpg"
+                            alt="Trois cuisines blanches dans l'air du temps">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/avant-apres-une-salle-de-bain-graphique-pour-enfants">
+                        <h3>AVANT / APRÈS : TROIS CUISINES BLANCHES DANS L’AIR DU TEMPS</h3>
+                        <p>Scandinave, contemporaine ou bohème chic … les cuisines blanches ont le vent en poupe pour distiller une ambiance douce, lumineuse et intemporelle. Mais dans cet espace mis à rude épreuve au quotidien, quels sont les bons revêtements à adopter afin de sublimer une cuisine immaculée ?</p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/avant-apres-une-salle-de-bain-graphique-pour-enfants"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+<!-- ******************************************************************************* -->
+
+            <div class="item salon show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/un-salon-esprit-campagne-chic">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-salon-saint-cyprien/Vignette_pageHub_424x188px.jpg"
+                            alt="Un salon à l'esprit campagne chic">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/un-salon-esprit-campagne-chic">
+                        <h3>AVANT / APRÈS : UN SALON À L'ESPRIT CAMPAGNE CHIC</h3>
+                        <p>Découvrez cette pièce à vivre à l’esprit champêtre avec son sol en travertin, ses murs en pierre et sa décoration à la fois authentique et sophistiquée.</p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/un-salon-esprit-campagne-chic"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+<!-- ******************************************************************************* -->
+
+
+
+            <div class="item salle-à-manger show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-salle-a-manger-mariant-ancien-et-contemporain">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-salle-a-manger-matthew-chalk/Vignette_pageHub_424x188px.jpg"
+                            alt="Une salle à manger mariant ancien et contemporain">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-salle-a-manger-mariant-ancien-et-contemporain">
+                        <h3>AVANT / APRÈS : UNE SALLE À MANGER MARIANT ANCIEN ET CONTEMPORAIN</h3>
+                        <p>Découvrez cette salle à manger accueillante habillée d’un carrelage à motifs façon carreaux de ciment imaginée par Matthew Chalk dans une ancienne chapelle reconvertie en un lieu de vie chaleureux.</p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/une-salle-a-manger-mariant-ancien-et-contemporain"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+
+<!-- ******************************************************************************* -->
+
+
+
+            <div class="item salle-de-bain show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-salle-de-bain-minimaliste-noire-et-blanche">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-sdb-coloc-cesar/Vignette_424x188px_4I5A6793.jpg"
+                            alt="Une salle de bain minimaliste noire et blanche">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-salle-de-bain-minimaliste-noire-et-blanche">
+                        <h3>AVANT / APRÈS : UNE SALLE DE BAIN MINIMALISTE NOIRE ET BLANCHE</h3>
+                        <p>Dans ce cocon marseillais dédié à la colocation, l’architecte d’intérieur Laurence Vernet a imaginé une salle de bain lumineuse parée d’un carrelage aspect carreaux de ciment et d’une faïence immaculée.</p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/une-salle-de-bain-minimaliste-noire-et-blanche"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+<!-- ******************************************************************************* -->
+
+            <div class="item  wc show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/3-WC-pratiques-et-esthetiques">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-3wc/Vignette_pageHub_424x188px.jpg"
+                            alt="Trois salons qui misent sur des revêtements chaleureux">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/3-WC-pratiques-et-esthetiques">
+                        <h3>AVANT / APRÈS : TROIS WC AUSSI PRATIQUES QU’ESTHÉTIQUES</h3>
+                        <p>Décorer une petite pièce comme les toilettes peut représenter un défi, mais il existe plusieurs astuces pour optimiser l'espace et rendre cette zone agréable et esthétique. Voici trois WC qui vont vous donner des idées !</p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/3-WC-pratiques-et-esthetiques"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+<!-- ******************************************************************************* -->
+
+            <div class="item chambre salon show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/3-WC-pratiques-et-esthetiques">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-suite-parentale/VIGNETTE-Copie-de-11_4L1A4844.jpg"
+                            alt="Trois salons qui misent sur des revêtements chaleureux">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/3-WC-pratiques-et-esthetiques">
+                        <h3>AVANT / APRÈS : TROIS INSPIRATIONS SALONS QUI MISENT SUR DES REVÊTEMENTS CHALEUREUX</h3>
+                        <p>Le salon est un espace fait pour la détente, pour la discussion, pour recevoir des invités. Cet espace de vie doit donc allier confort, praticité et décoration et ce sont les choix de vos revêtements de sol et murs qui garantissent ces trois aspects.</p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/3-WC-pratiques-et-esthetiques"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+<!-- ******************************************************************************* -->
+
+    
+        
+
+            <div class="item salon cuisine salle-à-manger show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres-une-piece-vivre-sous-combles-lesprit-boheme">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-piece-vivre-david-oliveira/Vignette_pageHub_424x188px.jpg"
+                            alt="Une pièce à vivre sous combles à l'esprit bohème">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres-une-piece-vivre-sous-combles-lesprit-boheme">
+                        <h3>AVANT / APRÈS : UNE PIÈCE À VIVRE SOUS COMBLES À L'ESPRIT BOHÈME</h3>
+                        <p>À Saumur, David Oliveira a métamorphosé un ancien grenier de 120 m² en un appartement lumineux qui abrite un vaste espace de vie ouvert, mixant ancien et contemporain</p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres-une-piece-vivre-sous-combles-lesprit-boheme"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item cuisine show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-extension-cuisine-dans-une-chapelle">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-salon-matthew-chalk/Vignette_pageHub_424x188px.jpg"
+                            alt="une extension cuisine dans une chapelle ancienne">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-extension-cuisine-dans-une-chapelle">
+                        <h3>AVANT / APRÈS : UNE EXTENSION CUISINE DANS UNE CHAPELLE ANCIENNE</h3>
+                        <p>Matthew Chalk, spécialisé dans la rénovation d’édifices anciens, nous fait découvrir la construction d’une extension accueillant une cuisine moderne dans une ancienne chapelle.</p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/une-extension-cuisine-dans-une-chapelle"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item salon show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/un-salon-cosy-dans-une-ancienne-chapelle">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-salon-matthew-chalk/Vignette_pageHub_424x188px.jpg"
+                            alt="un salon cosy dans une ancienne chapelle">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/un-salon-cosy-dans-une-ancienne-chapelle">
+                        <h3>AVANT / APRÈS : UN SALON COSY DANS UNE ANCIENNE CHAPELLE </h3>
+                        <p>Dans le Morbihan, l’artisan Matthew Chalk, fondateur de l’entreprise MC Rénovation, a réhabilité une ancienne chapelle datant de 1750 en misant sur un élégant carrelage imitation carreaux de ciment.</p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/un-salon-cosy-dans-une-ancienne-chapelle"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="item salon show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/un-salon-cosy-dans-une-ancienne-chapelle">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-salon-matthew-chalk/Vignette_pageHub_424x188px.jpg"
+                            alt="un salon cosy dans une ancienne chapelle">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/un-salon-cosy-dans-une-ancienne-chapelle">
+                        <h3>AVANT / APRÈS : UN SALON COSY DANS UNE ANCIENNE CHAPELLE </h3>
+                        <p>Dans le Morbihan, l’artisan Matthew Chalk, fondateur de l’entreprise MC Rénovation, a réhabilité une ancienne chapelle datant de 1750 en misant sur un élégant carrelage imitation carreaux de ciment.</p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/un-salon-cosy-dans-une-ancienne-chapelle"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="item cuisine show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-cuisine-blanche-au-caractere-affirme-donnant-sur-une-terrasse-nature">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-cuisine-boheme/Vignette_pageHub_424x188px.jpg"
+                            alt="une cuisine blanche au caractère affirmé donnant sur une terrasse nature">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-cuisine-blanche-au-caractere-affirme-donnant-sur-une-terrasse-nature">
+                        <h3>AVANT / APRÈS : UNE CUISINE BLANCHE AU CARACTÈRE AFFIRMÉ DONNANT SUR UNE TERRASSE NATURE </h3>
+                        <p>Pour donner du peps à cette cuisine blanche dotée d’un coin repas convivial, Coralie et Damien ont joué la carte du contraste graphique avec un sol en PVC effet béton ciré et joué sur l’effet chaleureux d’un carrelage effet parquet sur la terrasse.</p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/une-cuisine-blanche-au-caractere-affirme-donnant-sur-une-terrasse-nature"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="item chambre show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/deux-chambres-d-enfant-esprit-boheme">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-chambre-enfant-boheme/Vignette_pageHub_424x188px.jpg"
+                            alt="deux chambres d'enfant douillettes à l'esprit bohème">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/deux-chambres-d-enfant-esprit-boheme">
+                        <h3>AVANT / APRÈS : DEUX CHAMBRES D’ENFANT DOUILLETTES À L'ESPRIT BOHÈME </h3>
+                        <p>Dans leur appartement situé près de Grenoble, Coralie et Damien ont créé les espaces nuit de leurs enfants Ethan et Swan en imaginant deux cocons chaleureux faisant la part belle au bois clair.</p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/deux-chambres-d-enfant-esprit-boheme"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="item entrée show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/deux-chambres-d-enfant-esprit-boheme">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-entree-boheme/Vignette_pageHub_424x188pxV2.jpg"
+                            alt="une entrée à l'esprit bohème">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/deux-chambres-d-enfant-esprit-boheme">
+                        <h3>AVANT / APRÈS : UNE ENTRÉE À L’ESPRIT BOHÈME </h3>
+                        <p>Dans ce VEFA niché près de Grenoble, Coralie et Damien ont repensé l’espace entrée en misant sur un élégant sol en PVC effet béton ciré et un décor faisant la part belle aux matières naturelles.</p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/deux-chambres-d-enfant-esprit-boheme"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item salle-de-bain show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres-une-salle-de-bain-lambiance-industrielle">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-sdb-david-oliveira/Vignette_pageHub_424x188px.jpg"
+                            alt="une salle de bain à l'ambiance industrielle">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres-une-salle-de-bain-lambiance-industrielle">
+                        <h3>AVANT / APRÈS : UNE SALLE DE BAIN À L'AMBIANCE INDUSTRIELLE </h3>
+                        <p>Dans ce loft niché à Saumur, David Oliveira a conçu une salle de bain graphique habillée d’un sol en grès cérame imitation parquet et de panneaux en aluminium effet béton.</p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres-une-salle-de-bain-lambiance-industrielle"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="item salle-de-bain show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-salle-de-bain-familiale-raffinee">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-sdb-boheme/Vignette_pageHub_424x188px.jpg"
+                            alt="une salle de bain familiale raffinee">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-salle-de-bain-familiale-raffinee">
+                        <h3>AVANT / APRÈS : UNE SALLE DE BAIN FAMILIALE RAFFINÉE</h3>
+                        <p>Dans leur appartement situé près de Grenoble, Coralie et Damien ont imaginé une salle de bain contemporaine mariant carrelage imitation marbre et carreaux gris anthracite pour distiller une ambiance aussi minimaliste que précieuse.</p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/une-salle-de-bain-familiale-raffinee"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item cuisine show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-cuisine-blanche-et-bois-sobre-et-epuree">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-cuisine-david-oliveira/Vignette_pageHub_424x188px.JPG"
+                            alt="une cuisine blanche et bois indemodable">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-cuisine-blanche-et-bois-sobre-et-epuree">
+                        <h3>AVANT / APRÈS : UNE CUISINE BLANCHE ET BOIS INDEMODABLE</h3>
+                        <p>Découvrez cette cuisine ouverte mariant blanc et bois clair, une crédence à motifs Terrazzo et au sol, un carrelage imitation bois blanchi.</p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/une-cuisine-blanche-et-bois-sobre-et-epuree"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="item salle-de-bain show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-petite-salle-de-bain-zen-de-3m2">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-sdb-leilalifestyle/AVANT-APRES-SALLE-DE-DOUCHE-ZEN.jpg"
+                            alt="Inspiration Japandi pour une salle de douche zen de 3m2">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-petite-salle-de-bain-zen-de-3m2">
+                        <h3>AVANT / APRÈS : INSPIRATION JAPANDI POUR UNE SALLE DE DOUCHE ZEN DE 3M2</h3>
+                        <p>Découvrez comment l'influenceuse @Leilalifestyle imagine et optimise une salle de bain de 3m2
+                            et crée un écrin spacieux et zen.</p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/une-petite-salle-de-bain-zen-de-3m2"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item chambre show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-chambre-dado-aux-tons-neutres">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-chambre-ado-neutre/AVANT-APRES-CHAMBRE-ADO.jpg"
+                            alt="Une chambre d'ado aux tons neutres">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-chambre-dado-aux-tons-neutres">
+                        <h3>AVANT / APRÈS : UNE CHAMBRE D'ADO AUX TONS NEUTRES</h3>
+                        <p>Pour aménager la chambre de son fils Yanis, âgé de 15 ans, l’influenceuse Leilalifestyle a
+                            imaginé un espace épuré mariant le bois, le blanc et le noir.</p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/une-chambre-dado-aux-tons-neutres"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item chambre show">
+                <div class="item__img">
+                    <a
+                        href="https://www.pointp.fr/espace-deco/avant-apres/une-chambre-denfant-cocooning-et-printaniere">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-chambre-enfant-printaniere/AVANT-APRES-CHAMBRE-ENFANT-FILLE.jpg"
+                            alt="Une chambre d'enfant à l'ambiance printanière">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a
+                        href="https://www.pointp.fr/espace-deco/avant-apres/une-chambre-denfant-cocooning-et-printaniere">
+                        <h3>AVANT / APRÈS : UNE CHAMBRE D'ENFANT À L'AMBIANCE PRINTANIÈRE</h3>
+                        <p>Stratifié effet chêne clair, blanc lumineux et touches de rose habillent cette chambre
+                            cocooning conçue par l’influenceuse Leilalifestyle pour sa fille de 7 ans.</p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/une-chambre-denfant-cocooning-et-printaniere"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item entrée show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-entree-moderne-et-epuree">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-Entree-Space-Factory/AVANT-APRES-PETIT-ENTREE.jpg"
+                            alt="Une entrée moderne et épurée">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-entree-moderne-et-epuree">
+                        <h3>AVANT / APRÈS : UNE ENTRÉE MODERNE ET ÉPURÉE</h3>
+                        <p>L’agence Space Factory a créé une entrée lumineuse et chaleureuse avec une grande verrière et
+                            une banquette sur-mesure en panneaux de contrecollé.</p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/une-entree-moderne-et-epuree"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="item chambre show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-petite-chambre-parentale">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-Petite-Chambre/avant-apres-petite-chambre.jpg"
+                            alt="avant apres petite chambre">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-petite-chambre-parentale">
+                        <h3>AVANT / APRÈS : UNE PETITE CHAMBRE PARENTALE OPTIMISÉE</h3><br><br>
+                        <p>Faites-le plein d’idées pour optimiser l’espace d’une petite chambre et découvrez le dressing
+                            sur-mesure en contreplaqué de pin créé par Space Factory.
+                        </p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/une-petite-chambre-parentale"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item chambre show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres-une-chambre-lambiance-tropicale">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-Ambiance-Tropicale/hub-chambre-tropicale.jpg"
+                            alt="avant apres chambre tropicale">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres-une-chambre-lambiance-tropicale">
+                        <h3>AVANT / APRÈS : UNE CHAMBRE À L'AMBIANCE TROPICALE</h3><br><br>
+                        <p>L’architecte d’intérieur Nolwenn Suils Porte nous présente la jolie chambre à l’ambiance
+                            tropicale imaginée pour la maison de vacances de ses parents.
+                        </p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres-une-chambre-lambiance-tropicale"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item chambre show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-chambre-zen-avec-parquet-chene">
+                        <img src="/s/imgs/efficience/avant-apres/Projet_chambre_zen_chene/vignette-chambre-moderne-design-v2.jpg"
+                            alt="avant apres chambre zen">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-chambre-zen-avec-parquet-chene">
+                        <h3>AVANT / APRÈS : UNE CHAMBRE ZEN AVEC PARQUET CHÊNE</h3><br><br>
+                        <p> Inspirez-vous de la chambre zen conçue par une architecte d’intérieur avec un parquet chêne
+                            POINT.P.
+                        </p><br><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/une-chambre-zen-avec-parquet-chene"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item salle-de-bain show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres-une-salle-de-bain-beige-et-minerale">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-sbd-beige-saint-cyprien/vignette-hub.jpg"
+                            alt="avant apres salle de bain beige">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres-une-salle-de-bain-beige-et-minerale">
+                        <h3>AVANT / APRÈS : UNE SALLE DE BAIN BEIGE À L'AMBIANCE MINÉRALE</h3><br><br>
+                        <p>Découvrez cette salle de bain zen mariant carrelage beige et imitation carreaux de ciment
+                            pour une ambiance lumineuse et cosy.</p><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres-une-salle-de-bain-beige-et-minerale"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item cuisine show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres-une-cuisine-pour-une-maison-de-campagne">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-cuisine-neo-rustique/vignette-hub.jpg"
+                            alt="avant apres cuisine neo-rustique">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres-une-cuisine-pour-une-maison-de-campagne">
+                        <h3>AVANT / APRÈS : UNE CUISINE NÉO-RUSTIQUE POUR UNE MAISON DE CAMPAGNE</h3><br>
+                        <p>Entrez dans cette cuisine néo-rustique qui fait la part belle aux matériaux naturels, à
+                            l’upcycling et au mobilier de seconde main.</p><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres-une-cuisine-pour-une-maison-de-campagne"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item salle-de-bain show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-salle-de-bain-sous-combles-ultra-cosy">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-sdb-blanche-villeurbanne/AVANT APRÈS UNE SALLE DE BAIN BLANCHE.jpg"
+                            alt="avant apres salle de bain blanche">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-salle-de-bain-sous-combles-ultra-cosy">
+                        <h3>AVANT / APRÈS : UNE SALLE DE BAIN SOUS COMBLES ULTRA COSY</h3><br><br>
+                        <p>Découvrez cette salle de bain parentale aux tons verts et blancs, conçue par l’architecte
+                            d’intérieur Johany Sapet.</p><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/une-salle-de-bain-sous-combles-ultra-cosy"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item salle-de-bain show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-salle-de-bain-cosy-aux-tons-bleus">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-sbd-bleue-saint-cyprien/AVANT APRÈS SALLE DE DOUCHE BLEUE 2.jpg"
+                            alt="avant apres salle de bain bleue">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-salle-de-bain-cosy-aux-tons-bleus">
+                        <h3>AVANT / APRÈS : UNE SALLE DE BAIN COSY AUX TONS BLEUS</h3><br>
+                        <p>Inspirez-vous de cette salle de bain bleue au caractère affirmé, conçue par l’architecte
+                            d’intérieur Nolwenn Suils Porte.</p><br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/une-salle-de-bain-cosy-aux-tons-bleus"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item salon salle-à-manger cuisine show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres-une-piece-a-vivre-moderne-et-epuree">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-sejour-villeurbanne/AVANT APRÈS  UNE PIÈCE À VIVRE MODERNE ET ÉPURÉE.jpg"
+                            alt="avant apres pièce à vivre">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres-une-piece-a-vivre-moderne-et-epuree">
+                        <h3>AVANT / APRÈS : UNE PIÈCE À VIVRE MODERNE ET ÉPURÉE</h3><br>
+                        <p>Découvrez un écrin à l’esprit loft conçu par l’architecte d’intérieur Johany Sapet.</p>
+                        <br><br>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres-une-piece-a-vivre-moderne-et-epuree"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item salle-de-bain show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-salle-de-bain-rose-ultra-graphique">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-sdb-rose-villeurbanne/AVANT APRÈS  UNE SALLE DE BAIN ROSE ULTRA GRAPHIQUE 2.jpg"
+                            alt="avant après salle de bain">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-salle-de-bain-rose-ultra-graphique">
+                        <h3>AVANT / APRÈS : UNE SALLE DE BAIN ROSE ULTRA GRAPHIQUE</h3><br>
+                        <p>Découvrez cette salle de bain contemporaine imaginée par l’architecte d’intérieur Johany
+                            Sapet et dédiée aux enfants de la famille.</p>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/une-salle-de-bain-rose-ultra-graphique"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item chambre salle-de-bain dressing show">
+                <div class="item__img">
+                    <a
+                        href="https://www.pointp.fr/espace-deco/avant-apres/une-suite-parentale-a-l-ambiance-boheme-chic">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-Guinche/vignette-suite-parentale-boheme.jpg"
+                            alt="avant apres suite parentale">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a
+                        href="https://www.pointp.fr/espace-deco/avant-apres/une-suite-parentale-a-l-ambiance-boheme-chic">
+                        <h3>AVANT / APRÈS : UNE SUITE PARENTALE À L'AMBIANCE BOHÈME CHIC</h3><br>
+                        <p>En Loire Atlantique, la décoratrice Steffie Guinche a conçu une surélévation pour abriter une
+                            suite parentale lumineuse.</p>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/une-suite-parentale-a-l-ambiance-boheme-chic"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item terrasse piscine show">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-terrasse-avec-piscine-accueillante">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-Boutet-Ext/Vignette-avant-apres-terrasse-piscine.jpg"
+                            alt="avant apres terrasse">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-terrasse-avec-piscine-accueillante">
+                        <h3>AVANT / APRÈS : UNE TERRASSE AVEC PISCINE CONFORTABLE ET ACCUEILLANTE</h3>
+                        <p>Près de Nantes, Anaïs et Thomas ont redonné vie à leur terrasse en associant carrelages effet
+                            pierre et imitation bois.</p>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/une-terrasse-avec-piscine-accueillante"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item salle-à-manger cuisine show">
+                <div class="item__img">
+                    <a
+                        href="https://www.pointp.fr/espace-deco/avant-apres/une-piece-vivre-ouverte-pour-une-ambiance-chaleureuse">
+                        <img src="/s/imgs/efficience/avant-apres/AVANT-APRES-UNE-PIECE-A-VIVRE-OUVERTE.jpg"
+                            alt="pièce à vivre">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a
+                        href="https://www.pointp.fr/espace-deco/avant-apres/une-piece-vivre-ouverte-pour-une-ambiance-chaleureuse">
+                        <h3>AVANT / APRÈS : UNE PIÈCE À VIVRE OUVERTE</h3><br>
+                        <p>Inspirez-vous de ces espaces de vie modernes et accueillants, entièrement conçus par Anaïs et
+                            Thomas.</p>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/une-piece-vivre-ouverte-pour-une-ambiance-chaleureuse"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item terrasse piscine">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/deux-terrasses-modernes-et-cosy">
+                        <img src="/s/imgs/efficience/avant-apres/AVANT-APRES-deux-terrasses-modernes.jpg"
+                            alt="terrasses modernes">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/deux-terrasses-modernes-et-cosy">
+                        <h3>AVANT / APRÈS : DEUX TERRASSES MODERNES ET COSY</h3>
+                        <p>Découvrez ces terrasses extérieures aussi fonctionnelles que conviviales, conçues avec brio
+                            par l’architecte Laura Faye.</p>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/tendances/sol-imitation-parquet"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item salon salle-à-manger cuisine">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/avant-apres-une-maison-parisienne-esprit-bord-de-mer">
+                        <img src="/s/imgs/efficience/avant-apres/Appartement-parisien-mer/AVANT-APRES-UNE-MAISON-BORD-DE-MER.jpg"
+                            alt="maison bord de mer">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-maison-parisienne-esprit-bord-de-mer">
+                        <h3>AVANT / APRÈS : UNE MAISON PARISIENNE À L’ESPRIT BORD DE MER</h3>
+                        <p>Découvrez la maison esprit bord de mer créée par l’architecte Eugénie Rapin, avec un
+                            carrelage imitation bois blanchi POINT.P.</p>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/une-maison-parisienne-esprit-bord-de-mer"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item salon salle-à-manger cuisine">
+                <div class="item__img">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-piece-a-vivre-ambiance-nature">
+                        <img src="/s/imgs/efficience/avant-apres/Projet-Bosc/16-vignette-hub.png"
+                            alt="maison bord de mer">
+                    </a>
+                </div>
+                <div class="text_card">
+                    <a href="https://www.pointp.fr/espace-deco/avant-apres/une-piece-a-vivre-ambiance-nature">
+                        <h3>AVANT / APRÈS : UNE PIÈCE À VIVRE À L'AMBIANCE NATURE</h3>
+                        <p>Découvrez un espace salon / salle à manger / cuisine rénové par la décoratrice Nathalie Bosc
+                            avec les revêtements POINT.P.
+                        </p>
+                    </a>
+                    <div class="card_cta">
+                        <a href="https://www.pointp.fr/espace-deco/avant-apres/une-piece-a-vivre-ambiance-nature"
+                            onmousedown="try{tc_events_global(this,'Event',{'category':'Engagement','action':'Clic CTA','label':this.innerText.toLowerCase()})}catch(e){};">
+                            LIRE L'ARTICLE </a>
+                        <span class="icon-add"></span>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<style>
+    #bloc_hub #filters_bloc {
+        width: 80%;
+        border-top: 1px solid #ECECEC;
+        border-bottom: 1px solid #ECECEC;
+        padding: 32px 0;
+        margin-left: 110px;
+        display: flex;
+        align-items: center;
+    }
+
+    /* Add a grey background color on mouse-over */
+    #bloc_hub .btnn:hover {
+        background-color: #ECECEC;
+        outline: none;
+    }
+
+    #bloc_hub #btn_filter {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    /* Add a dark background color to the active button */
+    #bloc_hub .btnn.active {
+        background-color: #E75012;
+        outline: none;
+        color: white;
+    }
+
+    #bloc_hub #label_categorie {
+        font-weight: bold;
+        font-size: 16px;
+        line-height: 19px;
+        color: #333333;
+        margin-right: 205px;
+        white-space: nowrap;
+    }
+
+    #bloc_hub .filter .filter__content {
+        display: none;
+    }
+
+    /* Style the buttons */
+    #bloc_hub .btnn {
+        color: #333333;
+        text-align: center;
+        border: 1px solid #DFDFDF;
+        padding: 8px 24px;
+        border-radius: 60px;
+        margin: 8px 12px 8px 0;
+        cursor: pointer;
+        font-size: 12px;
+        line-height: 16px;
+        font-weight: 700;
+    }
+
+    #bloc_hub .card_tendance.active .card_tendance-wrapper {
+        max-height: inherit;
+        overflow: inherit;
+    }
+
+    #bloc_hub .card_tendance.active .card_tendance-btn {
+        display: none;
+    }
+
+    #bloc_hub .card_tendance .card_tendance-wrapper {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 26px 12px;
+        overflow: hidden;
+    }
+
+    #bloc_hub .card_tendance .card_tendance-wrapper .item {
+        display: flex;
+        flex-direction: column;
+        width: calc(100% / 3 - 8px)
+    }
+
+    #bloc_hub #card_tendance h2 {
+        font-size: 24px;
+        font-weight: 700;
+        margin-top: 40px;
+        margin-bottom: 30px;
+    }
+
+    #bloc_hub #card_tendance .item {
+        border: 1px solid #ECECEC;
+        border-radius: 0px 20px 20px 20px;
+        display: none;
+        overflow: hidden;
+    }
+
+    #bloc_hub #card_tendance .item .text_card {
+        padding: 24px;
+    }
+
+    #bloc_hub #card_tendance .item .text_card h3 {
+        font-size: 18px;
+        line-height: 21px;
+        font-weight: 700;
+        margin-bottom: 24px;
+        color: #333333;
+    }
+
+    #bloc_hub #card_tendance .item .text_card p {
+        font-size: 16px;
+        font-weight: 400;
+        margin-bottom: 24px;
+        line-height: 24px;
+        color: #333333;
+    }
+
+    #bloc_hub #card_tendance .item .text_card .card_cta {
+        display: flex;
+        align-items: center;
+    }
+
+    #bloc_hub #card_tendance .item .text_card .card_cta span {
+        display: inline-block;
+        margin-left: 15px;
+        width: 20px;
+        height: 20px;
+        background-color: #E75012;
+        border-bottom-right-radius: 100%;
+        border-bottom-left-radius: 100%;
+        border-top-right-radius: 100%;
+        position: relative;
+    }
+
+    #bloc_hub #card_tendance .item .text_card .card_cta span:before {
+        content: "+";
+        display: block;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: #ffffff;
+        font-size: 20px;
+        font-weight: 700;
+    }
+
+    #bloc_hub #card_tendance .item .text_card .card_cta a {
+        font-size: 10px;
+        color: #333333;
+        font-weight: 700;
+        line-height: 13px;
+    }
+
+    .card_tendance-btn {
+        font-size: 10px;
+        line-height: 13px;
+        font-weight: 700;
+        text-align: center;
+        border: 1px solid #DFDFDF;
+        padding: 13px 32px;
+        border-radius: 35px;
+        text-transform: uppercase;
+        display: flex;
+        justify-content: center;
+        margin: 50px auto;
+        color: white;
+        background-color: #E75012;
+        cursor: pointer;
+    }
+
+    #bloc_hub .show {
+        display: block !important;
+    }
+
+    @media (max-width: 425px) {
+        #bloc_hub #filters_bloc {
+            width: 100%;
+            padding: 20px 0;
+            margin-left: inherit;
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+        }
+
+        #bloc_hub #label_categorie {
+            width: 100%;
+            margin-right: inherit;
+            display: flex;
+            align-items: center;
+        }
+
+        #bloc_hub .filter .filter__content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 100%;
+            margin-left: 30px;
+        }
+
+        #bloc_hub .filter .filter__content .filter__content-number {
+            border-radius: 100%;
+            background-color: #E75012;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 16px;
+            line-height: 19px;
+            padding: 8px 13px;
+        }
+
+        #bloc_hub .filter .filter__content .filter__content-display {
+            transform: rotate(135deg);
+            border-style: solid;
+            border-width: 1px 1px 0 0;
+            content: '';
+            display: inline-block;
+            height: 10px;
+            vertical-align: top;
+            width: 10px;
+            transition: 0.5s;
+        }
+
+        #bloc_hub .filter .filter__content .filter__content-display.active {
+            transform: rotate(-45deg);
+            color: #E75012;
+            transition: 0.5s;
+        }
+
+        #bloc_hub #btn_filter {
+            display: none;
+        }
+
+        #bloc_hub #btn_filter.active {
+            display: flex;
+            margin-top: 10px;
+        }
+
+        #bloc_hub .card_tendance .card_tendance-wrapper .item {
+            width: 100%;
+        }
+
+        #bloc_hub #card_tendance .item .item__img img {
+            width: 100% !important;
+            height: 100% !important;
+        }
+
+        .card_tendance-btn {
+            margin: 20px auto 10px;
+        }
+
+        #bloc_hub .card_tendance .card_tendance-wrapper {
+            max-height: 1250px;
+        }
+    }
+</style>
+<script>
+    // Execute the function and show all columns.
+    filterSelection("all");
+
+    function filterSelection(c) {
+        var x, i;
+        x = document.getElementsByClassName("item");
+        if (c == "all") c = "";
+
+        // Add the "show" class (display:block) to the filtered elements, and remove the "show" class from the elements that are not selected
+        for (i = 0; i < x.length; i++) {
+            w3RemoveClass(x[i], "show");
+            if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
+        }
+    }
+
+    // Show filtered elements
+    function w3AddClass(element, name) {
+        var i, arr1, arr2;
+        arr1 = element.className.split(" ");
+        arr2 = name.split(" ");
+        for (i = 0; i < arr2.length; i++) {
+            if (arr1.indexOf(arr2[i]) == -1) {
+                element.className += " " + arr2[i];
+            }
+        }
+    }
+
+    // Hide elements that are not selected
+    function w3RemoveClass(element, name) {
+        var i, arr1, arr2;
+        arr1 = element.className.split(" ");
+        arr2 = name.split(" ");
+        for (i = 0; i < arr2.length; i++) {
+            while (arr1.indexOf(arr2[i]) > -1) {
+                arr1.splice(arr1.indexOf(arr2[i]), 1);
+            }
+        }
+        element.className = arr1.join(" ");
+    }
+
+    // Add active class to the current button (highlight it)
+    var btnContainer = document.getElementById("btn_filter");
+    var btns = btnContainer.getElementsByClassName("btnn");
+
+    for (var i = 0; i < btns.length; i++) {
+        btns[i].addEventListener("click", function () {
+            var current = document.getElementsByClassName("active");
+            current[0].className = current[0].className.replace(" active", "");
+            this.className += " active";
+        });
+    }
+
+    function showFiltre() {
+        var element = document.getElementById("btn_filter");
+        element.classList.toggle("active");
+
+        var element = document.getElementById("filter__content-display");
+        element.classList.toggle("active");
+    }
+
+
+    function showMore() {
+        var element = document.getElementById("card_tendance");
+        element.classList.toggle("active");
+    }
+</script>
