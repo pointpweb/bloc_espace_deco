@@ -1,0 +1,138 @@
+<div class="bloc-img-text-3">
+    <div class="bloc-img-text-3__content">
+        <div class="content-head">
+            <div class="content-head__left">
+                <div class="img-wrapper img-wrapper--01">
+                    <img src="/s/imgs/efficience/page_bienchoisir/BC1/12-BC1-3918942-Carrelage-sol-interieur-gres-cerame-Terre-de-IRIS.jpg" alt="cuisine avec un carrelage alternant motifs et teinte unie beige">
+                </div>
+            </div>
+            <div class="content-head__right">
+                <h3>Comment bien intégrer un carrelage à motifs ?</h3>
+                <p>Au sol comme aux murs, le <a href="https://www.pointp.fr/c/carrelage-decor/x3snv3_dig_2026979">carrelage à motifs</a> n’en finit pas d’inspirer nos intérieurs. La raison en est simple : c’est le revêtement le plus indiqué pour créer une ambiance personnalisée, de la plus classique à la plus contemporaine.</p>
+                <p><strong>On aime le décor rétro des carreaux de ciment</strong>, le lustre des carreaux d’aspect patiné, le trompe l’œil saisissant d’un <strong>revêtement patchwork</strong> ou l’exubérance vintage d’un carrelage sol mixant motifs et effets de matériaux… Si toutes les audaces sont permises, la pose d’un carrelage décor dans une pièce de la maison mérite d’être pensée avec soin. </p>
+                <p class="conseil"> Par exemple, on évitera son recours exclusif dans les pièces très meublées. Dans le salon, on optera plutôt pour un « <strong>tapis de carrelage</strong> » ou une frise de carreaux décor, en harmonie chromatique avec un carrelage uni.</p>
+                <p><strong>Sur la photo : carrelage grès cérame Terre – IRIS – Réf. POINT.P : 3918942</strong></p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style> 
+	.builder-header {
+		height: 0px;
+	}
+	.section-template-builder {
+		margin-top: 0px;
+	}
+	.section, .block {
+		margin: 0 !important;
+	}
+    /*style Romain*/
+    .bloc-img-text-3__content {
+        display: flex;
+        flex-direction: column;
+    }
+    .bloc-img-text-3__content .content-head {
+        display: flex;
+        gap: 0 25px;
+    }
+    .bloc-img-text-3__content .content-head__left {
+        width: 60%;
+    }
+    .bloc-img-text-3__content .content-head__right {
+        width: 40%;
+    }
+    .bloc-img-text-3__content .img-wrapper {
+        background-color: transparent;
+        position: relative;
+    }
+    .bloc-img-text-3__content .img-wrapper::before {
+        padding: 10px;
+        background-color: #f6f6f6;
+        font-size: 33px;
+        line-height: 36px;
+        font-weight: 400;
+        position: absolute;
+        left: 0;
+        bottom: 15px;
+        font-family: 'kh-blackline-scriptmedium';
+    }
+
+    .bloc-img-text-3__content .img-wrapper--01::before {
+        content: "Ambiance personnalisée";
+    }
+    .bloc-img-text-3__content h3,
+    .bloc-img-text-3__content h4 {
+        font-size: 17px;
+        line-height: 21px;
+        font-weight: 700;
+        color: #393939;
+        margin-bottom: 20px;
+    }
+    .bloc-img-text-3__content p {
+        font-size: 14px;
+        line-height: 24px;
+        font-weight: 400;
+        color: #777777;
+        margin-bottom: 10px;
+    }
+    .bloc-img-text-3__content a {
+        font-weight: 700;
+        color: #e75012;
+    }
+    .bloc-img-text-3__content .conseil {
+        margin-top: 20px;
+        margin-bottom: 20px;    
+        padding-left: 20px;
+        border-left: 10px solid #e75012;
+    }
+    .bloc-img-text-3__content ul, 
+    .bloc-img-text-3__content ol {
+        color: #777777;
+        font-size: 14px;
+        line-height: 18px;
+        margin: 0 0 24px;
+    }
+    .bloc-img-text-3__content ol {
+        counter-reset: li;
+    }
+    .bloc-img-text-3__content ul li, 
+    .bloc-img-text-3__content ol li {
+        padding: 0 0 6px 20px;
+    }
+    .bloc-img-text-3__content ol li {
+        counter-increment: li;
+    }
+    .bloc-img-text-3__content ul li::before {
+        content: "•";
+        display: inline-block;
+        width: 20px;
+        margin-left: -20px;
+    }
+    .bloc-img-text-3__content ol li:before {
+        content: counter(li) ".";
+        display: inline-block;
+        width: 20px;
+        margin-left: -20px;
+    }
+
+
+    @media (max-width: 425px) {
+        .bloc-img-text-3__content .content-head {
+            display: flex;
+            gap: 20px 0;
+            flex-direction: column;
+        }
+        .bloc-img-text-3__content .content-head .content-head__left {
+            width: 100%;
+        }
+        .bloc-img-text-3__content .content-head .content-head__right {
+            width: 100%;
+        }
+        .bloc-img-text-3__content .content-head .content-head__right .conseil {
+            margin-top: 0;
+        }
+    }
+
+
+</style>
