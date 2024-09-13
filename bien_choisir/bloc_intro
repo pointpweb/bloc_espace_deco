@@ -1,0 +1,84 @@
+<div class="intro">
+    <div class="intro__left">
+        <h2>Nos conseils</h2>
+        <p><strong>Pour habiller le sol de la maison</strong>, le <a href="https://www.pointp.fr/carrelage-interieur">carrelage</a> est toujours une bonne idée ! Depuis quelques années, cet incontournable de la déco intérieure a franchi le seuil de la cuisine ou de la salle de bain pour investir avec brio le salon et la chambre. Moderne, urbain, rustique ou rétro, <strong>le carrelage est un revêtement adapté à tous les styles</strong>, qui s’affiche comme une alternative design aux revêtements plus traditionnels comme le parquet. </p>
+        <p><strong>Alors quel carrelage choisir</strong> ? Pas toujours simple de trouver le modèle qui comblera durablement vos attentes… d’autant que le choix d’un revêtement sol est une étape importante, qui vous engage pour longtemps. </p>
+        <p>Dès le départ, <strong>posez-vous les bonnes questions</strong> : quelle couleur de carrelage adopter pour le salon ? Quel format de carreau poser dans une petite salle de bain ? Quelle finition pour une pièce humide ? Avec POINT.P, faites le plein de conseils clés pour <strong>choisir un carrelage</strong> en phase avec votre nouveau projet d’aménagement ou vos envies de rénovation. </p>
+        <p><strong>Sur la photo :<a href="https://www.pointp.fr/p/revetements-sols-et-murs/gres-cerame-naxos-vision-jour-naturel-rectifie-80-x-80-cm-0118641-A7772309">Grès cérame Naxos Vision jour naturel rectifié 80 x 80 cm 0118641 - NAXOS - Réf. POINT.P : 7772309</a> 
+        </strong> </p>     
+    </div>
+    <div class="intro__right">
+        <div class="right__img">
+            <img src="/s/imgs/efficience/page_bienchoisir/BC1/1_NAXOS_carrelageVision_7772309.jpg" alt="choisir son carrelage intérieur">
+        </div>
+    </div>
+</div>
+<style> 
+  /*style Romain*/
+	.builder-header {
+		height: 0px;
+	}
+	.section-template-builder {
+		margin-top: 0px;
+	}
+	.section, .block {
+		margin: 0 !important;
+	}
+    /*style Romain*/
+    .intro {
+        display: flex;
+        gap: 0 50px;
+    }
+    .intro .intro__left {
+        width: 60%;
+    }
+    .intro .intro__left h2 {
+        font-size: 24px;
+        line-height: 28px;
+        font-weight: 700;
+        color: #393939;
+        margin-bottom: 20px;
+        font-family: 'OpenSans-Bold';
+        text-transform: uppercase;
+    }
+    .intro .intro__left h3 {
+        font-size: 17px;
+        line-height: 21px;
+        font-weight: 700;
+        color: #393939;
+        margin-bottom: 20px;
+    }
+    .intro .intro__left p em {
+        color: #e75012;
+        font-weight: 700;
+    }
+    .intro .intro__left p {
+        font-size: 14px;
+        line-height: 24px;
+        font-weight: 400;
+        color: #777777;
+        margin-bottom: 10px;
+    }
+    .intro a {
+        font-weight: 700;
+        color: #e75012;
+    }
+    .intro .intro__right {
+        width: 40%;
+    }
+    
+    @media (max-width: 425px) {
+        .intro {
+            display: flex;
+            gap: 0;
+            flex-direction: column;
+        }
+        .intro .intro__left {
+            width: 100%;
+        }
+        .intro .intro__right {
+            width: 100%;
+        }
+    }
+
+</style>
