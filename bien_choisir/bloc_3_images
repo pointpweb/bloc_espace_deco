@@ -1,0 +1,45 @@
+<div class="bloc-img-text-6">
+    <div class="bloc-img-text-6__content">
+        <div class="content-left">
+            <div class="img-wrapper img-wrapper--03">
+                <img src="/s/imgs/efficience/page_bienchoisir/BC1/19-BC1-6830461-Carrelage-gres-cerame-Titan-Indium-de-CENTURY.jpg" alt="salle de bain avec carrelage mural et sol effet béton aux dimensions XXL">
+            </div>
+            <h3>Carrelage grand format pour donner une impression d’espace</h3>
+            <p>Le carrelage grand format est une valeur sûre, désormais bien installée dans les intérieurs contemporains. Ce format, qu’on appelle aussi XXL, a le pouvoir d’<strong>agrandir visuellement</strong> la pièce dans laquelle il est posé. Comportant moins de lignes de joints, un sol recouvert de grands carreaux inspire <strong>légèreté et simplicité</strong> : il est à poser sans modération dans un salon ou une salle à manger modernes, en privilégiant les tons gris ciment, beige, ou anthracite. Carré ou rectangulaire, il atteint des dimensions parfois spectaculaires, jusqu’à… 160x320 cm ! Attention toutefois à ne pas choisir des carreaux surdimensionnés : un carrelage grand format standard de 60x60 cm, suffit à <strong>inspirer un sentiment d’espace dans un petit séjour ou une chambre</strong>. D'ailleurs, plus un carrelage est grand, plus sa pose est délicate : la planéité du support doit être irréprochable et la mise en œuvre du revêtement, confiée à un professionnel.</p>
+            <p><a href="https://www.pointp.fr/espace-deco/tendances/carrelage-grand-format">Découvrez la tendance carrelage grand format </a></p>
+            <p><strong>Sur la photo :<a href="https://www.pointp.fr/p/revetements-sols-et-murs/gres-cerame-century-titan-indium-naturel-recitifie-120x120cm-107217-A6830461"> carrelage grès cérame Titan – CENTURY – Réf. POINT.P. POINT.P : 6830461</a></strong></p>
+        </div>
+        <div class="content-center">
+            <div class="img-wrapper img-wrapper--03">
+                <img src="/s/imgs/efficience/page_bienchoisir/BC1/10_REFIN_carrelageCortina_4295598.jpg" alt="salon scandinave avec carrelage imitation parquet point de Hongrie">
+            </div>
+            <h3>Le carrelage imitation bois pour remplacer le parquet</h3>
+            <p>Alternative au parquet traditionnel, le <strong>carrelage inspiration bois</strong> est capable d'en reproduire toutes les nuances. Couleur, veinage, nœuds, mais aussi texture : lisse, brut, sablé, patiné, blanchi… Si le <strong>parquet imitation chêne</strong> est à l’honneur dans les collections de carrelage effet bois, vous trouverez aussi d'autres essences et finitions : un aspect bois brûlé pour une touche bienvenue dans un salon campagne chic, un effet bois blond pour le souffle scandinave ou une finition façon brute de sciage pour l’esthétique vintage. Autre atout du carrelage imitation bois, son <strong>format allongé en lame de parquet</strong>, autorisant tous les types de pose : pose à joint droits, à joints décalés, en chevrons… Le comble du raffinement, pour <strong>un revêtement qui ne craint pas l’humidité</strong> et peut être posé dans la salle de bain, à la différence de la majorité des sols en bois.</p>
+            <p><a href="https://www.pointp.fr/espace-deco/tendances/sol-imitation-parquet">Découvrez la tendance imitation parquet</a></p>
+            <p><strong>Sur la photo :<a href="https://www.pointp.fr/p/carrelage-interieur/gres-cerame-refin-cortina-honey-chalet-rectifie-12-x-75-cm-og81-A4295598"> Carrelage imitation bois sol/mur intérieur Cortina - grès cérame rectifié - Honey Chalet - 12x75 cm - REFIN - Réf. POINT.P. POINT.P : 4295598</a></strong></p>
+        </div>
+        <div class="content-right">
+            <div class="img-wrapper img-wrapper--03">
+                <img src="/s/imgs/efficience/page_bienchoisir/BC1/11_RAGNO_carrelageRewind_6003868.jpg" alt="salle de bain avec dégradé de carrelage hexagonal noir gris blanc">
+            </div>
+            <h3>Le carrelage hexagonal pour une déco graphique et originale</h3>
+            <p>Comme le carreau de ciment ou le <a href="https://www.pointp.fr/c/carrelage-metro/x3snv3_dig_2026918">carrelage métro,</a> le <strong>carrelage hexagonal</strong> fait son grand retour dans l'univers de l'aménagement intérieur. Avec ses six côtés et son format réduit, ce carrelage original trouve sa place sur le sol d'une cuisine comme d'un salon, en diffusant avec un égal bonheur son sens inné de la décoration. Choisissez-le uni pour habiller votre sol en panachant les couleurs, avec un résultat digne d'un <strong>authentique intérieur vintage</strong>. Aux murs, la <strong>faïence hexagonale s'invite dans la cuisine</strong>, où elle apporte une touche d'ambiance bistrot, comme la <a href="https://www.pointp.fr/c/mosaique/x3snv3_dig_2026922">mosaïque.</a> Dans la salle de bain, le carreau hexagonal apporte du relief et de la douceur, avec son format moins anguleux qu'un carreau traditionnel. </p>
+            <p><a href="https://www.pointp.fr/espace-deco/tendances/carrelage-hexagonal">Découvrez la tendance carrelage hexagonal</a></p>
+            <p><strong>Sur la photo :<a href="https://www.pointp.fr/p/decoration-interieure/gres-cerame-ragno-rewind-vanilla-ge-ometrique-decor-18-2x21cm-A6003868">Carrelage sol intérieur grès cérame Rewind - décor géométrique vanilla - 18,2x21 cm - RAGNO - Réf. POINT.P : 6003868           </a> </strong></p>
+        </div>
+    </div>
+</div>
+
+<style> 
+
+    .bloc-img-text-6__content .content-left .img-wrapper--03::before {
+        content: "XXL";
+    }
+    .bloc-img-text-6__content .content-center .img-wrapper--03::before {
+        content: "Imitation parquet";
+    }
+    .bloc-img-text-6__content .content-right .img-wrapper--03::before {
+        content: "Hexagonal";
+    }
+   
+</style>
